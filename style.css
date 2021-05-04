@@ -1,0 +1,49 @@
+body {
+    background-size: cover;
+    background-position: center;
+}
+
+.heading {
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    cursor: default;
+}
+
+.btn-warning {
+    width: 250px;
+    border-radius: 30px;
+}
+
+.btn-warning:hover {
+    width: 250px;
+    border-radius: 30px;
+    background-color: white;
+    color: orange;
+}
+
+.text {
+    color: white;
+    font-size: 25px;
+    font-family: bold;
+}
+
+.login_div {
+    background: rgba(90, 203, 248, 0.644);
+    float: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px grey;
+    border-color: #ddd;
+    border-left: 3px;
+    width: 50%;
+}
+
+.btn-primary {
+    border-radius: 10px;
+}
+
+.btn-primary:hover {
+    border-radius: 10px;
+    background-color: white;
+    color: rgb(0, 26, 255);
+}
